@@ -1,0 +1,14 @@
+﻿.contenedor {
+    width: 940px;
+    margin: 0 auto;
+    border: solid #808080 2px;
+    border-radius: 10px;
+    font-family: monospace, cursive;
+}
+.Background-PopUp {
+    background-color: #ffffff;
+    opacity: 0.5;
+}
+.contenedor-PopUp {
+    background-color: #ffffff;
+}

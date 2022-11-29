@@ -1,0 +1,43 @@
+﻿
+.principal {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.tarjeta {
+    background-color: #95aece;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+    border-radius: 1rem;
+}
+.tarjeta__titulo {
+    font-size: 1.2rem;
+    padding-left: 1rem;
+    margin: 0.5rem;
+    text-align: left;
+}
+.tarjeta__creador {
+    font-size: 1rem;
+    padding-left: 1rem;
+    margin: 0.5rem 0;
+}
+.tarjeta__imagen {
+   width: 220px;
+   height: 220px;
+   background-color: #ffffff;
+   margin: 0.5rem auto;
+}
+.tarjeta__fecha {
+    font-size: 1rem;
+    padding-left: 1rem;
+    margin: 0.5rem 0;
+}
+.btn-Detalles {
+    color: #000000;
+    font-size: 1rem;
+    padding-left: 1rem;
+    margin: 0.5rem 0;
+}
